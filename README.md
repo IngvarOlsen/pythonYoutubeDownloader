@@ -9,7 +9,7 @@ Dependencies
 pip install pytube
 ```
 
-To run it
+Click the startScript.BAT file, or run it in CMD 
 ```
 python youtubeDownloader.py
 ```
