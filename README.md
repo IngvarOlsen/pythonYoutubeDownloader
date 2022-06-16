@@ -1,13 +1,13 @@
-# pythonYoutubeDownloader
+# Simple Python Youtube Downloader
 
-Simple Python YouTube downloader with pytube with input for youtube link and output path
+Simple Python YouTube downloader with pytube with input for youtube link and output path.
+It downloads with highest possible resolution
 
-Just made it from a little tutorial for my dad really, as allot of youtube downloader sites are pretty dodgy 
-
-Tutorial used: https://www.the-analytics.club/download-youtube-videos-in-python
+Made it  for my dad, as allot of youtube downloader sites are pretty dodgy 
 
 
 Dependencies 
+Python 3.6 or greater
 ```
 pip install pytube
 ```
