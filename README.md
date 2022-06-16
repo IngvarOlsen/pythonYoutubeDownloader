@@ -7,6 +7,7 @@ Made it  for my dad, as allot of youtube downloader sites are pretty dodgy
 
 
 Dependencies 
+
 Python 3.6 or greater
 ```
 pip install pytube
